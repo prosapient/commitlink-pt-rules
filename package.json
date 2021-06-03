@@ -1,0 +1,13 @@
+{
+  "name": "commitlint-plugin-pt-rules",
+  "version": "0.1.0",
+  "description": "List of commitlint rules used in proSapient",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prosapient/pt-commitlint-rules"
+  },
+  "main": "./src/index.js",
+  "devDependencies": {
+    "prettier": "^2.3.0"
+  }
+}
